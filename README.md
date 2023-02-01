@@ -1,4 +1,4 @@
-# Bitcoin-Parser
+# Bitcoin-Parser-From-Fullnode
 Bitcoin’s full-node data grew to 450.84GB on Jan 28, 2023. Most data service providers couldn’t handle all the data on their website for downloading it. For example, Blockchair full-node dump version is snapshots on Jan 20, 2020, which doesn’t support the latest on-chain transactions data. Meaning you have to set up Bitcoin full-node on your own. Let’s do it.
 
 ## Environment Requirement
